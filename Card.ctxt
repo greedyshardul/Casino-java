@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theValue\ theSuit
+comment0.target=Card(int,\ int)
+comment1.params=
+comment1.target=int\ getSuit()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ getSuitAsString()
+comment4.params=
+comment4.target=java.lang.String\ getValueAsString()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

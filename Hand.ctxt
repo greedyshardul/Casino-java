@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=c
+comment2.target=void\ addCard(Card)
+comment3.params=c
+comment3.target=void\ removeCard(Card)
+comment4.params=position
+comment4.target=void\ removeCard(int)
+comment5.params=
+comment5.target=int\ getCardCount()
+comment6.params=position
+comment6.target=Card\ getCard(int)
+comment7.params=
+comment7.target=void\ sortBySuit()
+comment8.params=
+comment8.target=void\ sortByValue()
+numComments=9
