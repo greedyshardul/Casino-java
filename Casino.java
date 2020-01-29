@@ -6,7 +6,7 @@ public class Casino
     public static void main(String args[])throws Exception
     {        
         System.out.println("\f");
-        System.out.println("Welcome to Casino Coyote Valley!");
+        System.out.println("Welcome to Casino Royal Ace!");
         try
         {
             Thread.sleep(300);
